@@ -50,3 +50,8 @@ Start the development server by running:
 npm run dev
 
 Visit http://localhost:3000 to view the landing page.
+
+
+## Acknowledgments
+
+Thank you for checking out this project. All development and deployment were done by Pooja Dusane as part of my learning and skills development journey.
