@@ -28,14 +28,12 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the repository:
 
-git clone https://github.com/your-username/laptop-brand-landing-page.git
+git clone https://github.com/dusanepooja/laptop-brand-landing-page.git
 cd laptop-brand-landing-page
 
 ### 2. Install dependencies:
 Run the following command to install the required dependencies:
 
-bash
-Copy code
 npm install
 ### 3. Set up Tailwind CSS:
 Make sure your project has Tailwind CSS set up correctly. You should already have the following configuration files:
@@ -48,7 +46,5 @@ If you don't have Tailwind CSS set up yet, follow the official Tailwind CSS setu
 ### 4. Run the Development Server:
 Start the development server by running:
 
-bash
-Copy code
 npm run dev
 Visit http://localhost:3000 to view the landing page.
