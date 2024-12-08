@@ -28,16 +28,16 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the repository:
 
-```bash
 git clone https://github.com/your-username/laptop-brand-landing-page.git
 cd laptop-brand-landing-page
-2. Install dependencies:
+
+### 2. Install dependencies:
 Run the following command to install the required dependencies:
 
 bash
 Copy code
 npm install
-3. Set up Tailwind CSS:
+### 3. Set up Tailwind CSS:
 Make sure your project has Tailwind CSS set up correctly. You should already have the following configuration files:
 
 tailwind.config.js
@@ -45,7 +45,7 @@ postcss.config.js
 styles/globals.css
 If you don't have Tailwind CSS set up yet, follow the official Tailwind CSS setup guide.
 
-4. Run the Development Server:
+### 4. Run the Development Server:
 Start the development server by running:
 
 bash
