@@ -4,7 +4,7 @@
 
 This is a static, responsive landing page built using **Next.js** and **Tailwind CSS**. The landing page showcases features of a laptop brand and includes sections like a hero section, feature highlights, and footer.
 
-The page is mobile-responsive, utilizes **CSS Flexbox** for layout management, and features **lazy loading** for images to optimize performance. The project is deployed on **Netlify**.
+The page is mobile-responsive, utilizes **CSS Flexbox** for layout management, and features **lazy loading** for images to optimize performance. 
 
 ## Features
 
@@ -20,7 +20,6 @@ The page is mobile-responsive, utilizes **CSS Flexbox** for layout management, a
 - **React**: For creating reusable UI components.
 - **Tailwind CSS**: For styling the page with utility-first CSS classes.
 - **PostCSS**: For processing Tailwind CSS.
-- **Netlify**: Deployed the page on Netlify.
 
 ## Project Setup
 
