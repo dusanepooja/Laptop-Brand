@@ -39,12 +39,14 @@ npm install
 Make sure your project has Tailwind CSS set up correctly. You should already have the following configuration files:
 
 tailwind.config.js
+
 postcss.config.js
+
 styles/globals.css
-If you don't have Tailwind CSS set up yet, follow the official Tailwind CSS setup guide.
 
 ### 4. Run the Development Server:
 Start the development server by running:
 
 npm run dev
+
 Visit http://localhost:3000 to view the landing page.
